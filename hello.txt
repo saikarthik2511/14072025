@@ -3,6 +3,11 @@ Today is monday
 Have a happy day
 <<<<<<< HEAD
 I am here wwaiting
+<<<<<<< HEAD
 =======
 I am here
 >>>>>>> uat
+=======
+hello 
+How are you
+>>>>>>> dev
